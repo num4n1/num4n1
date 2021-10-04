@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @num4n1
 - 👀 I’m interested in everything life has to offer
 - 🌱 I’m currently a Software Engineering Major at UCalgary
-- 💼 I’m looking to collaborate on web development
+- 💼 I’m looking to collaborate on web development and data base management systems
 - 📫 How to reach me - mohamed.numan@ucalgary.ca
 
 <!---
