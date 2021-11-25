@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything life has to offer
 - 🌱 I’m currently a Software Engineering Major at UCalgary
 - 💼 I’m looking to collaborate on web development and data base management systems
-- 📫 How to reach me - mohamed.numan@ucalgary.ca
+- 📫 How to reach me - business.numan@gmail.com
 
 <!---
 num4n1/num4n1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
