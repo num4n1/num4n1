@@ -8,7 +8,7 @@
 
 <img
   align="center"
-  src="https://github-readme-stats.vercel.app/api?username=num4n1&hide=stars&count_private=true&show_icons=true&theme=algolia"
+  src="https://github-readme-stats.vercel.app/api?username=num4n1&hide=stars&count_private=true&show_icons=true&theme=github_dark"
 />
 <!---
 num4n1/num4n1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
