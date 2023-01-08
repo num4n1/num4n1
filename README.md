@@ -12,4 +12,3 @@
   src="https://github-readme-stats.vercel.app/api?username=num4n1&hide=stars&count_private=true&show_icons=true&theme=github_dark"
 />
 
-<!---![visitors](https://visitor-badge.laobi.icu/badge?page_id=num4n1)--->
