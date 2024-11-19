@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Numan
 - 👀 I’m interested in everything life has to offer
-- 🌱 I’m currently a Software Engineering Major at UCalgary
-- 💼 I’m looking to collaborate on web development, database management systems, and machine learning projects
+- 🌱 Graduated with a B.Sc in Software Engineering from UCalgary
+- 💼 Currently working on an Ai-Powered Finance Tracker
 - 📫 How to reach me - business.numan@gmail.com
 - 🌐 My portfolio - https://mohamednuman.tech
 - :desktop_computer: Connect with me 
