@@ -16,6 +16,6 @@
 
 <img src="https://api.iconify.design/lucide/briefcase.svg?color=%2358a6ff" height="20" align="absmiddle" alt="" /> Software Engineer at **IBM Canada**, working on enterprise data tools and AI systems<br />
 <img src="https://api.iconify.design/lucide/bot.svg?color=%2358a6ff" height="20" align="absmiddle" alt="" /> Building RAG assistants, LLM tooling, and MCP servers<br />
-<img src="https://api.iconify.design/lucide/rocket.svg?color=%2358a6ff" height="20" align="absmiddle" alt="" /> Building **TradersFort**, a gamified platform that teaches people how to trade<br />
+<img src="https://api.iconify.design/lucide/rocket.svg?color=%2358a6ff" height="20" align="absmiddle" alt="" /> Building **[TradersFort.io](https://www.tradersfort.io)**, a gamified platform that teaches people how to trade<br />
 <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=%2358a6ff" height="20" align="absmiddle" alt="" /> BSc in Software Engineering from the **University of Calgary**<br />
 <img src="https://api.iconify.design/lucide/message-circle.svg?color=%2358a6ff" height="20" align="absmiddle" alt="" /> Always happy to talk about AI, engineering, and building great products
